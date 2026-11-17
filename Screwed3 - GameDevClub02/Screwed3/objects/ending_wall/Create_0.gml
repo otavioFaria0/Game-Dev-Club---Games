@@ -1,0 +1,2 @@
+yStart = y;
+opendoor = false;
