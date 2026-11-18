@@ -66,6 +66,7 @@
     {"id":{"name":"spr_player2_walk","path":"sprites/spr_player2_walk/spr_player2_walk.yy",},},
     {"id":{"name":"spr_screw","path":"sprites/spr_screw/spr_screw.yy",},},
     {"id":{"name":"spr_star","path":"sprites/spr_star/spr_star.yy",},},
+    {"id":{"name":"Sprite17","path":"sprites/Sprite17/Sprite17.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
