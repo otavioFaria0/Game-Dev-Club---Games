@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Interacts","order":2,"path":"folders/Objects/Interacts.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_main_neil","order":4,"path":"objects/obj_main_neil/obj_main_neil.yy",},
+    {"name":"obj_main_screw","order":1,"path":"objects/obj_main_screw/obj_main_screw.yy",},
+    {"name":"obj_solid","order":2,"path":"objects/obj_solid/obj_solid.yy",},
+    {"name":"obj_star","order":3,"path":"objects/obj_star/obj_star.yy",},
+    {"name":"spr_end_wall","order":2,"path":"sprites/spr_end_wall/spr_end_wall.yy",},
+    {"name":"spr_floor","order":3,"path":"sprites/spr_floor/spr_floor.yy",},
+    {"name":"spr_neil","order":4,"path":"sprites/spr_neil/spr_neil.yy",},
+    {"name":"spr_star","order":1,"path":"sprites/spr_star/spr_star.yy",},
+  ],
+}
